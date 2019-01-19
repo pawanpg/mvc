@@ -1,0 +1,1 @@
+ <?php include HOME . DS . 'views' . DS .'Login'. DS .'index.tpl'; ?>
